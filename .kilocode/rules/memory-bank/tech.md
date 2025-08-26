@@ -1,16 +1,7 @@
-# Technologies
+# Tech
 
-## Technologies used
-[To be filled during project development]
-
-## Development setup
-[To be filled during project development]
-
-## Technical constraints
-[To be filled during project development]
-
-## Dependencies
-[To be filled during project development]
-
-## Tool usage patterns
-[To be filled during project development]
+- **Technologies used:** Express.js for backend, JavaScript SPA for frontend.
+- **Development setup:**
+- **Technical constraints:**
+- **Dependencies:**
+- **Tool usage patterns:**
